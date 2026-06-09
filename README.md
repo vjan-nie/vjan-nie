@@ -9,7 +9,7 @@ I like problems where I have to understand a system from the ground up: a layere
 - Software developer intern at **Dynamic Enterprise Junction** — porting a legacy C codebase to **ANSI C (C89/C90)**, compiling clean under `-std=c89 -pedantic` with zero errors or warnings, and preparing a layered architecture for AI pipeline integration.
 
 ### What I work with
-- **Languages:** C, Python, Shell/Bash
+- **Languages:** C, C++, Python, Shell/Bash
 - **Systems:** Linux / UNIX, processes, signals, concurrency, multithreading
 - **Backend & infra:** FastAPI, MongoDB, Docker, Git / GitHub Actions, Nginx
 - **Toward AI:** NLP foundations (DeepLearning.AI), TensorFlow Lite — building toward ML systems and inference
@@ -22,7 +22,7 @@ I like problems where I have to understand a system from the ground up: a layere
 - **transcendence** *(work in progress)* — my final 42 project: a full-stack web application I'm building with a team, currently moving toward a microservices architecture. Detailed write-up coming once the design settles.
 
 ### Languages
-Spanish (native) · English (advanced and fluent, C1) · Italian (fluent) · French (reading)
+Spanish (native) · English (near-native, C1) · Italian (fluent) · French (reading)
 
 ### Reach me
 vjannieto@gmail.com · [LinkedIn](https://www.linkedin.com/in/vadim-jan-nieto)
