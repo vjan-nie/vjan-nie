@@ -21,7 +21,7 @@ I like understanding a system from the ground up before touching it: a layered p
 - **[transcendence](https://github.com/Univers42/transcendence)** *(work in progress)* — my final 42 project: a full-stack web application I'm building with a team, currently moving toward a microservices architecture. Detailed write-up coming once the design settles.
 
 ### Languages
-Spanish (native) · English (advanced-fluent, C1) · Italian (fluent) · French (reading)
+Spanish (native) · English (fluent, C1) · Italian (fluent) · French (reading)
 
 ### Reach me
 vjannieto@gmail.com · [LinkedIn](https://www.linkedin.com/in/vadim-jan-nieto)
