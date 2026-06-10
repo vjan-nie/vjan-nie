@@ -1,6 +1,6 @@
 # Hi, I'm Vadim
 
-C and systems developer with a foundation in low-level programming, heading toward AI infrastructure. I came to code from philosophy and six years leading a teaching team. Most recently, as a software developer intern at **Dynamic Enterprise Junction**, I ported a legacy C codebase to **ANSI C (C89/C90)** — clean under `-std=c89 -pedantic`, zero warnings.
+C and systems developer with a foundation in low-level programming, heading toward AI infrastructure. I came to code from philosophy and five years leading a teaching team. Most recently, as a software developer intern at **Dynamic Enterprise Junction**, I ported a legacy C codebase to **ANSI C (C89/C90)** — clean under `-std=c89 -pedantic`, zero warnings.
 
 I like understanding a system from the ground up before touching it: a layered protocol in C, the lifecycle of a process, what stands between messy source and a clean compile.
 
